@@ -1,6 +1,8 @@
 Android Persian Calendar [![Build Status](https://travis-ci.org/ebraminio/DroidPersianCalendar.svg?branch=master)](https://travis-ci.org/ebraminio/DroidPersianCalendar)  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ebraminio/DroidPersianCalendar)
 =============================
 <div lang="fa" dir="rtl">تقویم فارسی اندروید<br />
+    سورس اصلی برنامه لینک زیر می باشد که ما آن را ارتقا داده ایم
+    https://cafebazaar.ir/app/com.byagowi.persiancalendar/ gnu.org/licenses
 تقویم ساده، رایگان و آزاد اندروید به همراه ویجت و حمایت از DashClock<br />
 برای دریافت و نصب بر برگهٔ releases در بالای صفحه کلیک کنید.</div>
 -----------------------------
